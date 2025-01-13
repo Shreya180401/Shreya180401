@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @Shreya180401
+- 👀 I’m interested in Machine Learning & Python
+- 🌱 I’m currently pursuing Master in Data Science with Artificial Intelligence
+- 📫 You can reach me through the LinkedIn profile (link given in the profile)
+- ⚡ Fun fact: Eager to explore more in github, as Iam bit new to it
+
+<!---
+Shreya180401/Shreya180401 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
